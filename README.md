@@ -9,7 +9,7 @@
 Currently studying computer systems engineering, with hands-on experience in C#. I'm passionate about learning and creating something new, productive, innovative, and creative.
 **🎮 I passionate about web design, video game development, and creating apps that truly make students' lives easier.**
 - 🌱 I’m currently learning ...
-  - Python, exploring how to turn ideas into real-world solutions.
+  - HTML, exploring how to turn ideas into real-world solutions.
 - 💬 If you have a question and it's in my area, count me in!
 - 🌿 Outside of coding, I enjoy losing myself in music and connecting with nature.
 - 📫 Reach out to me at: <a href="frodoricrancio@gmail.com">frodoricrancio@gmail.com</a>
