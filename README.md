@@ -12,7 +12,7 @@ Currently studying computer systems engineering, with hands-on experience in C#.
   - HTML, exploring how to turn ideas into real-world solutions.
 - 💬 If you have a question and it's in my area, count me in!
 - 🌿 Outside of coding, I enjoy losing myself in music and connecting with nature.
-- 📫 Reach out to me at: <a href="frodoricrancio@gmail.com">frodoricrancio@gmail.com</a>
+- 📫 Reach out to me at: <a href="freddyjrosalesm@gmail.com">freddyjrosalesm@gmail.com</a>
 
 ## My Skills Include
 
