@@ -14,7 +14,7 @@ I am a Systems Engineering student, with hands-on experience in C#. I'm passiona
 - 🌿 Outside of coding, I enjoy losing myself in music and connecting with nature.
 - 📫 Reach out to me at: <a href="freddyjrosalesm@gmail.com">freddyjrosalesm@gmail.com</a>
 
-## My Skills Include
+<img src="https://gifgifs.com/animations/anime/dragon-ball-z/Goten/goten_24.gif" width="30px">&nbsp;## My Skills Include
 
 <h4> Languages </h4>
 <span> 
