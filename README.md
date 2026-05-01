@@ -14,7 +14,7 @@ I am a Systems Engineering student, with hands-on experience in C#. I'm passiona
 - 🌿 Outside of coding, I enjoy losing myself in music and connecting with nature.
 - 📫 Reach out to me at: <a href="freddyjrosalesm@gmail.com">freddyjrosalesm@gmail.com</a>
 
-<img src="https://gifgifs.com/animations/anime/dragon-ball-z/Goku/goku_60.gif" width="120px">&nbsp;## My Skills Include
+## My Skills Include
 
 <h4> Languages </h4>
 <span> 
@@ -53,6 +53,7 @@ I am a Systems Engineering student, with hands-on experience in C#. I'm passiona
 </span>
 
 ## My Social Media
+<img src="https://gifgifs.com/animations/anime/dragon-ball-z/Goku/goku_60.gif" width="120px">&nbsp;
 <a href= "https://www.facebook.com/freddy.rosales.mogollon?locale=es_LA">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 
