@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeTh3bTB1MmgzdXRiMGNhbmR4M2xydWh4NW1tdWd3OGdwOTA0MzJ3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeTh3bTB1MmgzdXRiMGNhbmR4M2xydWh4NW1tdWd3OGdwOTA0MzJ3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="30px">&nbsp;***About me***
 
