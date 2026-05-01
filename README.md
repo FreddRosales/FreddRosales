@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeTh3bTB1MmgzdXRiMGNhbmR4M2xydWh4NW1tdWd3OGdwOTA0MzJ3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="30px">&nbsp;***About me***
 
@@ -37,14 +37,15 @@ I am a Systems Engineering student, with hands-on experience in C#. I'm passiona
 <img src = "https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white">
 
 <h4> Operating System </h4>
-</span>
+<span>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src = "https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
 <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src = "https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
-<img src = "https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
+
 
 <h4> Other Tools Technologies </h4>
-</span>
+<span>
 <img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 
