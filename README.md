@@ -53,7 +53,7 @@ I am a Systems Engineering student, with hands-on experience in C#. I'm passiona
 </span>
 
 ## My Social Media
-<img src="https://gifgifs.com/animations/anime/dragon-ball-z/Goku/goku_60.gif" width="120px"><a href= "https://www.facebook.com/freddy.rosales.mogollon?locale=es_LA">
+<a href= "https://www.facebook.com/freddy.rosales.mogollon?locale=es_LA">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 
 <a href= "https://www.instagram.com/mapachito.root/">
