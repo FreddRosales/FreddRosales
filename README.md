@@ -56,7 +56,7 @@ I am a Systems Engineering student, with hands-on experience in C#. I'm passiona
 <a href= "https://www.facebook.com/freddy.rosales.mogollon?locale=es_LA">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 
-<a href= "https://www.instagram.com/mapachito.root/">
+<a href= "https://www.instagram.com/fr3z0r_/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">  
   
 <a href= "https://open.spotify.com/user/31ccp3ppukjklfc4gqa7ybljhuju?si=a3412196928a4c3d">
