@@ -77,7 +77,7 @@ I am a Systems Engineering student, with hands-on experience in C# and Java. I'm
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 
  <a href = "https://steamcommunity.com/profiles/76561199546200889/">
-  <img src = "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white
+  <img src ="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
     
 <a href= "https://open.spotify.com/user/31ccp3ppukjklfc4gqa7ybljhuju?si=a3412196928a4c3d">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"> 
