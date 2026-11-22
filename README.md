@@ -33,7 +33,6 @@ I am a Systems Engineering student, with hands-on experience in C#. I'm passiona
 <span>
   <img src= "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src= "https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white">
-  <img src= "https://snapcraft.io/modelio">
 </span>
 
 <h4> Frameworks </h4>
