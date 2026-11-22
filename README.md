@@ -6,10 +6,9 @@
 
 <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="30px">&nbsp;***About me***
 
-I am a Systems Engineering student, with hands-on experience in C#. I'm passionate about learning and creating something new, productive, innovative, and creative.
+I am a Systems Engineering student, with hands-on experience in C# and Java. I'm passionate about learning and creating something new, productive, innovative, and creative.
 **🎮 I passionate about web design, video game development, and creating apps that truly make students lives easier.**
-- 🌱 I’m currently learning ...
-  - HTML, exploring how to turn ideas into real-world solutions.
+- 🌱 I’m currently diving deeper into software modeling (UML and RUP), requirements engineering, and web development to turn ideas into real-world solutions.
 - 💬 If you have a question and it's in my area, count me in!
 - 🌿 Outside of coding, I enjoy losing myself in music and connecting with nature.
 - 📫 Reach out to me at: <a href="freddyjrosalesm@gmail.com">freddyjrosalesm@gmail.com</a>
@@ -18,23 +17,24 @@ I am a Systems Engineering student, with hands-on experience in C#. I'm passiona
 
 <h4> Languages </h4>
 <span> 
+  <img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src= "https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://camo.githubusercontent.com/2dc6ec836f175d76bf669ce6506a1e39e4f950e51d4c8a202cd9879949598fca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
   <img src= "https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
   <img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src= "https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white">
-  <img src= "https://camo.githubusercontent.com/2dc6ec836f175d76bf669ce6506a1e39e4f950e51d4c8a202cd9879949598fca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
-  <img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src= "https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
   
-  
+
 </span>
 
 <h4> Design</h4>
 <span>
   <img src= "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src= "https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white">
+  <img src = "https://img.shields.io/badge/Modelio-%23FF0000.svg?style=for-the-badge&logo=Modelio&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
@@ -44,24 +44,24 @@ I am a Systems Engineering student, with hands-on experience in C#. I'm passiona
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 <img src= "https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeans&logoColor=white">
 <img src = "https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+
 
 <h4> Operating System </h4>
 <span>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src = "https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
 <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src = "https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
+<img src = "https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
 
 
 <h4> Other Tools Technologies </h4>
 <span>
+<img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
 <img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-<img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-
 
 </span>
 
@@ -71,17 +71,16 @@ I am a Systems Engineering student, with hands-on experience in C#. I'm passiona
 
 <a href= "https://www.instagram.com/fr3z0r_/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">  
-  
-<a href= "https://open.spotify.com/user/31ccp3ppukjklfc4gqa7ybljhuju?si=a3412196928a4c3d">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"> 
 
 <a href = "https://www.linkedin.com/in/fredrosales/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 
+ <a href = "https://steamcommunity.com/profiles/76561199546200889/">
+  <img src = "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white
+    
+<a href= "https://open.spotify.com/user/31ccp3ppukjklfc4gqa7ybljhuju?si=a3412196928a4c3d">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"> 
+
 <a href = "https://www.youtube.com/@FreRosales/">
   <img src = "https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-<a href = "https://steamcommunity.com/profiles/76561199546200889/">
-  <img src = "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white
   
-
-
