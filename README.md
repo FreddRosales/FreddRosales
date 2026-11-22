@@ -7,7 +7,8 @@
 <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="30px">&nbsp;***About me***
 
 I am a Systems Engineering student, with hands-on experience in C# and Java. I'm passionate about learning and creating something new, productive, innovative, and creative.
-**🎮 I passionate about web design, video game development, and creating apps that truly make students lives easier.**
+
+🎮 I passionate about web design, video game development, and creating apps that truly make students lives easier.
 - 🌱 I’m currently diving deeper into software modeling (UML and RUP), requirements engineering, and web development to turn ideas into real-world solutions.
 - 💬 If you have a question and it's in my area, count me in!
 - 🌿 Outside of coding, I enjoy losing myself in music and connecting with nature.
@@ -54,7 +55,7 @@ I am a Systems Engineering student, with hands-on experience in C# and Java. I'm
 <span>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src = "https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
+<img src = "https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src = "https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
 
 
