@@ -16,26 +16,38 @@ I am a Systems Engineering student, with hands-on experience in C# and Java. I'm
 
 ## My Skills Include
 
-<h4> Languages </h4>
+<h4> Programming Language </h4>
 <span> 
   <img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src= "https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src= "https://camo.githubusercontent.com/2dc6ec836f175d76bf669ce6506a1e39e4f950e51d4c8a202cd9879949598fca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
-  <img src= "https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
   <img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src= "https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white">
-  
-
 </span>
 
-<h4> Design</h4>
+<h4> Frontend / Web Technologies </h4>
+<span>
+  <img src= "https://camo.githubusercontent.com/2dc6ec836f175d76bf669ce6506a1e39e4f950e51d4c8a202cd9879949598fca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
+ <img src= "https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src = "https://img.shields.io/badge/Modelio-%23FF0000.svg?style=for-the-badge&logo=Modelio&logoColor=white">
+</span>
+
+<h4> Databases / Query Languages </h4>
+<span>
+  <img src= "https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white">
+</span>
+
+<h4> UI / UX Design </h4>
 <span>
   <img src= "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</span>
+
+<h4> Software Modeling & Diagramming </h4>
+<span>
   <img src= "https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white">
   <img src = "https://img.shields.io/badge/Modelio-%23FF0000.svg?style=for-the-badge&logo=Modelio&logoColor=white">
+  <img src = "https://img.shields.io/badge/Lucidchart-%23000000.svg?style=for-the-badge&logo=Lucidchart&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
@@ -43,7 +55,7 @@ I am a Systems Engineering student, with hands-on experience in C# and Java. I'm
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </span>
 
-<h4> IDE </h4>
+<h4> IDE & Code Editors </h4>
 <span>
 <img src= "https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeans&logoColor=white">
 <img src = "https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white">
@@ -68,9 +80,6 @@ I am a Systems Engineering student, with hands-on experience in C# and Java. I'm
 ## My Social Media
 <a href= "https://www.facebook.com/freddy.rosales.mogollon?locale=es_LA">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-
-<a href= "https://www.instagram.com/fr3z0r_/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">  
 
 <a href = "https://www.linkedin.com/in/fredrosales/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
