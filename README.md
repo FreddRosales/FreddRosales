@@ -29,8 +29,7 @@ I am a Systems Engineering student, with hands-on experience in C# and Java. I'm
 <h4> Frontend / Web Technologies </h4>
 <span>
   <img src= "https://camo.githubusercontent.com/2dc6ec836f175d76bf669ce6506a1e39e4f950e51d4c8a202cd9879949598fca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
- <img src= "https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src = "https://img.shields.io/badge/Modelio-%23FF0000.svg?style=for-the-badge&logo=Modelio&logoColor=white">
+ <img src= "https://img.shields.io/badge/css3-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
 </span>
 
 <h4> Databases / Query Languages </h4>
@@ -47,7 +46,7 @@ I am a Systems Engineering student, with hands-on experience in C# and Java. I'm
 <span>
   <img src= "https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white">
   <img src = "https://img.shields.io/badge/Modelio-%23FF0000.svg?style=for-the-badge&logo=Modelio&logoColor=white">
-  <img src = "https://img.shields.io/badge/Lucidchart-%23000000.svg?style=for-the-badge&logo=Lucidchart&logoColor=white">
+  <img src= "https://img.shields.io/badge/Lucidchart-%23000000.svg?style=for-the-badge&logo=lucidchar&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
