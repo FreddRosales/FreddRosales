@@ -46,7 +46,7 @@ I am a Systems Engineering student, with hands-on experience in C# and Java. I'm
 <span>
   <img src= "https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white">
   <img src = "https://img.shields.io/badge/Modelio-%23FF0000.svg?style=for-the-badge&logo=Modelio&logoColor=white">
-  <img src= "https://img.shields.io/badge/Lucidchart-%23000000.svg?style=for-the-badge&logo=lucidchar&logoColor=white">
+  <img src= "https://img.shields.io/badge/Lucidchart-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
